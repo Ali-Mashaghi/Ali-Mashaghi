@@ -2,12 +2,8 @@
 # Hi there 👋 I'm Ali
 
 <p align="center">
-# Hi there 👋 I'm Ali
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Developer;Python+%7C+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Developer;Python+%7C+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
 ---
 
 # 👨💻 About Me
